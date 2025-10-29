@@ -1,6 +1,6 @@
 # **One-Handed Keyboard**
 
-> We received an unusual email. The sender's daughter was run over by a heavy truck on her way to school and permanently lost the use of her right hand. She now has to constantly move between the keyboard and mouse when she uses a computer, which is slow and exhausting. He asked us to help him build a one-handed keyboard for his daughter.
+> The original project owner received an unusual email. The sender's daughter was run over by a heavy truck on her way to school and permanently lost the use of her right hand. She now has to constantly move between the keyboard and mouse when she uses a computer, which is slow and exhausting. He asked us to help him build a one-handed keyboard for his daughter.
 
 ![Left-hand small keyboard](/Docs/Image/左手小键盘右侧面.jpg "Left-hand small keyboard")
 
